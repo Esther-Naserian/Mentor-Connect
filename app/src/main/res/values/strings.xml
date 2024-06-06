@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MentorConnect</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="password_is_required">Password  is required</string>
+    <string name="usenamer_name_is_required">Usenamer name is required</string>
+    <string name="first_name_is_required">First name is required</string>
+    <string name="last_name_is_required">Last name is required</string>
+    <string name="codehiveid_is_required">codehiveId is required</string>
+    <string name="email_is_required">Email  is required</string>
+    <string name="username_is_required">UserName is required</string>
+</resources>
